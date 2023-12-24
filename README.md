@@ -1,2 +1,2 @@
 # module2-solution
-This is Coursera Assignment
+This is Coursera Assignment.
