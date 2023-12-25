@@ -1,2 +1,2 @@
-# module2-solution
+# module2-solution.io
 This is Coursera Assignment.
